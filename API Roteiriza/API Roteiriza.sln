@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API Roteiriza", "API Roteiriza\API Roteiriza.csproj", "{E13A78D0-27B1-42BA-B7E9-06289CC3DBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E13A78D0-27B1-42BA-B7E9-06289CC3DBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13A78D0-27B1-42BA-B7E9-06289CC3DBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13A78D0-27B1-42BA-B7E9-06289CC3DBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13A78D0-27B1-42BA-B7E9-06289CC3DBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BFF7B68-9EE3-4066-8AB8-F56EE3C17719}
+	EndGlobalSection
+EndGlobal
