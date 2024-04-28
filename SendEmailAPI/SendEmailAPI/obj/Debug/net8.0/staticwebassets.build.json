@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3Kw/rG0x27TGiWIp8zed/HX5T0kQDJOOlF/oAbO/TNI=",
+  "Source": "SendEmailAPI",
+  "BasePath": "_content/SendEmailAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
