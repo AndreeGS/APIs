@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API Roteiriza")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cc7cd1662a8b7a08fd307862675aac135c7aef6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a93bc41d54ed7881bb97f9fd986bc0ba7da5170")]
 [assembly: System.Reflection.AssemblyProductAttribute("API Roteiriza")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API Roteiriza")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
