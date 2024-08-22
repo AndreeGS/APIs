@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\core",
-    "\\core\\application"
+    "\\core\\application",
+    "\\core\\application\\services",
+    "\\core\\application\\services\\service_account"
   ],
-  "SelectedNode": "\\core\\application\\services",
+  "SelectedNode": "\\core\\application\\services\\service_account\\service_account.sln",
   "PreviewInSolutionExplorer": false
 }

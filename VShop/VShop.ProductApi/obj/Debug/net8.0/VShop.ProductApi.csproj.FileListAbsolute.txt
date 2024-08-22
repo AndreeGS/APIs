@@ -135,3 +135,5 @@ C:\Users\Andre\Documents\GitHub\APIs\VShop\VShop.ProductApi\obj\Debug\net8.0\ref
 C:\Users\Andre\Documents\GitHub\APIs\VShop\VShop.ProductApi\obj\Debug\net8.0\VShop.ProductApi.pdb
 C:\Users\Andre\Documents\GitHub\APIs\VShop\VShop.ProductApi\obj\Debug\net8.0\VShop.ProductApi.genruntimeconfig.cache
 C:\Users\Andre\Documents\GitHub\APIs\VShop\VShop.ProductApi\obj\Debug\net8.0\ref\VShop.ProductApi.dll
+C:\Users\Andre\Documents\GitHub\APIs\VShop\VShop.ProductApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Andre\Documents\GitHub\APIs\VShop\VShop.ProductApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
