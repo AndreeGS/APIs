@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8i31roNFOiaAMTxfz0PYr05tJCAsZmC/csxZyD4FOGo=",
+  "Source": "API_MongoDB_MS-1",
+  "BasePath": "_content/API_MongoDB_MS-1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

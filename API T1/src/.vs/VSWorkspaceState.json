@@ -3,6 +3,7 @@
     "",
     "\\core",
     "\\core\\application",
+    "\\core\\application\\interfaces",
     "\\core\\application\\services",
     "\\core\\application\\services\\service_account"
   ],

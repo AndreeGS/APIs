@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API_MongoDB_MS-1.props" />
+</Project>
